@@ -14,11 +14,12 @@
 >>음악감상
 
 ## 사용 언어
-*수강이력
-1*Java
-2*C
-3*Python
-4*JavaScript
+
+프로그래밍 언어 스킬
+1.C
+2.JAVA
+3.Python
+4.JAVA SCRIPT
 
 ## 최근 관심 분야
 *오픈소스
