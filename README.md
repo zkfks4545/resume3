@@ -44,6 +44,6 @@
 
 
 
-[goolge]: http://www.google.com
+[google]: http://www.google.com
 [naver]: http://www.naver.com
 [hallym]: http://hallym.ac.kr
