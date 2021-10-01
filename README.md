@@ -15,10 +15,10 @@
 
 ## 사용 언어
 수강이력
- 1.Java
- 2.C
- 3.Python
- 4.JavaScript
+1.Java
+2.C
+3.Python
+4.JavaScript
 
 ## 최근 관심 분야
 *오픈소스
