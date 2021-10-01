@@ -2,7 +2,7 @@
 
 ## 개인 이력사항
 
-![KakaoTalk_20210609_180507422](https://user-images.githubusercontent.com/54013492/135624285-9848da24-3ff3-4a4a-ad2d-10a39e1af6ba.jpg)
+<img KakaoTalk_20210609_180507422.jpg height=150 width=150>
 
 #### 이름 : 김준석
 #### github : [zkfks4545][github]
