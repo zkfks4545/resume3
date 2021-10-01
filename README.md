@@ -3,6 +3,7 @@
 ## 개인 이력사항
 
 #### 이름 : 김준석
+#### github : [github]
 #### email : zkfks4545@gmail.com
 #### university : hallym university
 
@@ -43,7 +44,7 @@
 
 
 
-
+[github]: https://github.com/zkfks4545
 [google]: http://www.google.com
 [naver]: http://www.naver.com
 [hallym]: http://hallym.ac.kr
